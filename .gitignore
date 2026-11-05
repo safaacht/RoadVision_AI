@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datasets
+data/
+datasets/
+traffic_clean/
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# Training outputs
+runs/
+wandb/
+
+# Environment
+.env
+.venv/
